@@ -1,0 +1,11 @@
+D:\CSharp_Projects\SnakeGame_Prototype\SnakeGame_Prototype\obj\Debug\SnakeGame_Prototype.csproj.AssemblyReference.cache
+D:\CSharp_Projects\SnakeGame_Prototype\SnakeGame_Prototype\obj\Debug\SnakeGame_Prototype.csproj.SuggestedBindingRedirects.cache
+D:\CSharp_Projects\SnakeGame_Prototype\SnakeGame_Prototype\obj\Debug\SnakeGame_Prototype.SnakeGame.resources
+D:\CSharp_Projects\SnakeGame_Prototype\SnakeGame_Prototype\obj\Debug\SnakeGame_Prototype.Properties.Resources.resources
+D:\CSharp_Projects\SnakeGame_Prototype\SnakeGame_Prototype\obj\Debug\SnakeGame_Prototype.csproj.GenerateResource.cache
+D:\CSharp_Projects\SnakeGame_Prototype\SnakeGame_Prototype\obj\Debug\SnakeGame_Prototype.csproj.CoreCompileInputs.cache
+D:\CSharp_Projects\SnakeGame_Prototype\SnakeGame_Prototype\bin\Debug\SnakeGame_Prototype.exe.config
+D:\CSharp_Projects\SnakeGame_Prototype\SnakeGame_Prototype\bin\Debug\SnakeGame_Prototype.exe
+D:\CSharp_Projects\SnakeGame_Prototype\SnakeGame_Prototype\bin\Debug\SnakeGame_Prototype.pdb
+D:\CSharp_Projects\SnakeGame_Prototype\SnakeGame_Prototype\obj\Debug\SnakeGame_Prototype.exe
+D:\CSharp_Projects\SnakeGame_Prototype\SnakeGame_Prototype\obj\Debug\SnakeGame_Prototype.pdb
